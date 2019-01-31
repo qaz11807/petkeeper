@@ -1,6 +1,6 @@
    
     npm install
     
-    ---
+---
     
     npm start
