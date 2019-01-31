@@ -1,0 +1,26 @@
+.Manual {
+	display: flex;
+	flex-wrap: wrap;
+	width: 100%;
+	height: 100%;
+	text-align: center;
+}
+
+.ButtonHome {
+	width: 100%;
+	height: auto;
+	text-align: center;
+}
+
+.Button {
+	cursor: pointer;
+	line-height: 50px;
+	text-align: center;
+	display: inline-block;
+	margin: 50px;
+	width: 100px;
+	height: 50px;
+	background: linear-gradient(#3788F4, #6849F9);
+	border-radius: 10px;
+	font-weight: bold;
+}

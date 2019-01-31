@@ -1,0 +1,48 @@
+.PetBlock {
+	cursor: pointer;
+	width: 45%;
+	height: 50%;
+	margin: 10px;
+	text-align: center;
+	line-height: 75px;
+	font-size: 30px;
+}
+
+.PetBlock > img {
+  height: 120px;
+  width: 120px;
+  margin: 1px;
+}
+
+.auto {
+	background: #58a;
+	background-image: linear-gradient(white 2px, transparent 0),
+					  linear-gradient(90deg, white 2px, transparent 0),
+					  linear-gradient(hsla(0,0%,100%,.3) 1px, transparent 0),
+					  linear-gradient(90deg, hsla(0,0%,100%,.3) 1px, transparent 0);
+	background-size: 75px 75px, 75px 75px, 15px 15px, 15px 15px;
+}
+.manual {
+	background: #6AE7E0;
+	background-image: linear-gradient(white 2px, transparent 0),
+					  linear-gradient(90deg, white 2px, transparent 0),
+					  linear-gradient(hsla(0,0%,100%,.3) 1px, transparent 0),
+					  linear-gradient(90deg, hsla(0,0%,100%,.3) 1px, transparent 0);
+	background-size: 75px 75px, 75px 75px, 15px 15px, 15px 15px;
+}
+.record {
+	background: #6AE781;
+	background-image: linear-gradient(white 2px, transparent 0),
+					  linear-gradient(90deg, white 2px, transparent 0),
+					  linear-gradient(hsla(0,0%,100%,.3) 1px, transparent 0),
+					  linear-gradient(90deg, hsla(0,0%,100%,.3) 1px, transparent 0);
+	background-size: 75px 75px, 75px 75px, 15px 15px, 15px 15px;
+}
+.info {
+	background: #ECABBE;
+	background-image: linear-gradient(white 2px, transparent 0),
+					  linear-gradient(90deg, white 2px, transparent 0),
+					  linear-gradient(hsla(0,0%,100%,.3) 1px, transparent 0),
+					  linear-gradient(90deg, hsla(0,0%,100%,.3) 1px, transparent 0);
+	background-size: 75px 75px, 75px 75px, 15px 15px, 15px 15px;
+}

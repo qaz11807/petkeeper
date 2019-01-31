@@ -1,0 +1,9 @@
+.Content {
+	margin-top: 56px;
+	height: calc(100vh - 56px);
+	width: 100vw;
+	background-color: #708090;
+	background: linear-gradient(135deg, #d9ecff 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #708090 67px, #d9ecff 69px, transparent 69px),
+				linear-gradient(225deg, #d9ecff 22px, #d9ecff 22px, #d9ecff 24px, transparent 24px, transparent 67px, #708090 67px, #d9ecff 69px, transparent 69px)0 64px;
+	background-size: 64px 128px;
+}

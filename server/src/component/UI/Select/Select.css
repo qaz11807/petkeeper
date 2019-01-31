@@ -1,0 +1,20 @@
+.Select {
+	height: auto;
+	margin: auto;
+	margin-top: 30px; 
+	text-align: center;
+	background: #ECABBE;
+	background-image: repeating-linear-gradient(30deg, hsla(0, 0%, 100%, .1), hsla(0, 0%, 100%, .1) 15px, transparent 0 , transparent 30px);
+	border: 10px solid #51CEEF;
+	border-radius: .8em;
+	outline: .6em solid #54B0C8;
+	/*padding: 1em;*/
+	box-shadow: 0 0 0 .6em #54B0C8;
+}
+.Select img {
+	height: 100px;
+	width: 100px;
+}
+.Select h4 {
+	font-weight: bold;
+}

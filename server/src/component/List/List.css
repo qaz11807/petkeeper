@@ -1,0 +1,14 @@
+.List {
+	width: 100%;
+	border: 1px solid #eee;
+	box-shadow: 0 2px 3px #ccc;
+	padding: 10px;
+	margin: 10px auto;
+	box-sizing: border-box;
+	background: #6AE7E0;
+	background-image: linear-gradient(white 2px, transparent 0),
+					  linear-gradient(90deg, white 2px, transparent 0),
+					  linear-gradient(hsla(0,0%,100%,.3) 1px, transparent 0),
+					  linear-gradient(90deg, hsla(0,0%,100%,.3) 1px, transparent 0);
+	background-size: 75px 75px, 75px 75px, 15px 15px, 15px 15px;
+}
