@@ -1,1 +1,2 @@
-"# petkeeper" 
+    npm install
+    npm start
